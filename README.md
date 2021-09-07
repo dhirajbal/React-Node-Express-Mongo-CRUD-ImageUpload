@@ -12,7 +12,7 @@ Open Backend Folder and run this command
 
 ```
  npm install
- node server.js
+ nodemon app.js
 ```
 <!-- 
 <br>
