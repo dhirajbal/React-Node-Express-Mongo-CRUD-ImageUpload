@@ -14,7 +14,7 @@ Open Backend Folder and run this command
  npm install
  node server.js
 ```
-
+<!-- 
 <br>
 <b>Table View :- </b>
 
@@ -34,3 +34,4 @@ Open Backend Folder and run this command
 <b>Edit Page :- </b>
 
 ![image](https://user-images.githubusercontent.com/49555360/119681054-5c9e9780-be5f-11eb-97d3-c42494b5c4bb.png)
+ -->
